@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+ 
+:root{
+    --Orange: hsl(25, 97%, 53%);
+    --White: hsl(0, 0%, 100%);
+    --LightGrey: hsl(217, 12%, 63%);
+    --MediumGrey: hsl(216, 12%, 54%);
+    --DarkBlue: hsl(213, 19%, 18%);
+    --VeryDarkBlue: hsl(216, 12%, 8%);
+    --Gray: #262f38;
+    --Blue:#1e252f
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+font-family: 'overpass';
+background-color: var(--VeryDarkBlue);
+}
+
+.containers{
+    display: flex;
+    flex-direction: column;
+    margin: 10% auto;
+    width: 25%;
+    height: 25%;
+    background-color: var(--Blue);
+    font-size: smaller;
+    justify-content: center;
+    border-radius: 25px;
+    padding: 1.5rem;
+    gap: 20px;
+}
+
+#star{
+    background-color: var(--Gray);
+    display:flex;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    padding: 2%;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: var(--White);
+    font-weight: 400;
+}
+
+p{
+    color: var(--LightGrey);
+    margin-top: 10px;
+}
+
+
+#buttons{
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+}
+
+#options{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.select{
+    background-color: var(--Gray);
+    border: 1px solid var(--Gray);
+    border-radius: 1.75rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    color: var(--LightGrey);
+}
+
+.select:hover{
+    background-color: var(--LightGrey);
+    color: var(--White);
+    cursor: pointer;
+}
+
+.select:focus{
+    background-color: var(--Orange);
+    color: var(--White);
+    cursor: pointer;
+}
+
+#submit{
+    background-color: var(--Orange);
+    color: var(--White);
+    border-radius: 30px;
+    margin-top: 10%;
+    padding: 10px;
+    border: none;
+}
+
+#submit:hover{
+    background-color: var(--White);
+    color: var(--Orange);
+    cursor: pointer;
+}
+
+#secondContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display:none;
+}
+
+#ranking{
+    color: var(--Orange);
+    background-color: var(--Gray);
+    padding: .4rem 1rem;
+    margin: 1rem;
+    border-radius: 50px;
+}
+
+@media screen and (max-width: 888px) {
+    .containers{
+        width: 80%;
+        height: auto;
+        margin-top: 20%;
+    }
+}
+
+/*  */
