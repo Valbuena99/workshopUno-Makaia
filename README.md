@@ -1,6 +1,6 @@
 ![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png)
 # Workshop #1 - Makaia
-
+![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png)
 _Realizar una aplicación de calificación interactiva siguiendo estrictamente los siguientes requerimientos._
 
 ## Comenzando 🚀
