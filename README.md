@@ -11,13 +11,13 @@
 
 _Realizar una aplicación de calificación interactiva cumpliendo los requerimientos contemplados en el proyecto como "guide" con su Guia de Estilos y funcionalidades utilizando JavaScript, estos fueron algunos de los requisitos expuestos:_
 
-· Bucles y condicionales
-· Manejo del DOM
-· Funciones
-· Eventos
-· Almacenamiento en LocalStorage
-· Maquetación HTML
-· Diseño CSS
+· Bucles y condicionales.  
+· Manejo del DOM.  
+· Funciones.  
+· Eventos.  
+· Almacenamiento en LocalStorage.  
+· Maquetación HTML.  
+· Diseño CSS.  
 
 
 ## Comenzando 🚀
