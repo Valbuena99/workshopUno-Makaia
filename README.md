@@ -1,11 +1,9 @@
 ![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png)
 
 ## Tabla de Contenido
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+1. [Información General](#workshop-1---makaia)
+2. [Tecnologias](#tecnologías-utilizadas-%EF%B8%8F)
+3. [Autores](#autores-%EF%B8%8F)
 
 # Workshop #1 - Makaia
 
