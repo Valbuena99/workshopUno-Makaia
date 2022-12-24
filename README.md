@@ -1,4 +1,4 @@
-![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png#center)
+![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png)
 
 ## Tabla de Contenido
 1. [General Info](#general-info)
@@ -11,14 +11,15 @@
 
 _Realizar una aplicación de calificación interactiva cumpliendo los requerimientos contemplados en el proyecto como "guide" con su Guia de Estilos y funcionalidades utilizando JavaScript, estos fueron algunos de los requisitos expuestos:_
 
-· Bucles y condicionales.  
-· Manejo del DOM.  
-· Funciones.  
-· Eventos.  
-· Almacenamiento en LocalStorage.  
-· Maquetación HTML.  
-· Diseño CSS.  
-<center>![Preview Project](https://i.ibb.co/KxJtDgb/Workshop1-Makaia.gif)</center>
+* Bucles y condicionales.  
+* Manejo del DOM.  
+* Funciones.  
+* Eventos.  
+* Almacenamiento en LocalStorage.  
+* Maquetación HTML.  
+* Diseño CSS. 
+
+![Preview Project](https://i.ibb.co/KxJtDgb/Workshop1-Makaia.gif)
 
 ## Comenzando 🚀
 
