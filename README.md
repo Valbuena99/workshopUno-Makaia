@@ -32,7 +32,7 @@ _En la realización del proyecto, hicimos uso de codigo limpio, es decir, no uti
 
 ## Autores ✒️
 
-_Trabajo realizado en medio de una reunión virtual, realizada con los siguientes compañeros, cada uno aportando sus conocimientos._
+_Trabajo realizado en medio de una reunión virtual con los siguientes compañeros, cada uno aportando sus conocimientos._
 
 * **Juan Sebastian Valbuena Vargas** - [Valbuena99](https://github.com/valbuena99)
 * **Cristian Rodrigo Alape Mancipe** - [Cristian](#none)
