@@ -1,6 +1,7 @@
+![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png)
 # Workshop #1 - Makaia
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Realizar una aplicación de calificación interactiva siguiendo estrictamente los siguientes requerimientos._
 
 ## Comenzando 🚀
 
