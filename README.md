@@ -1,4 +1,4 @@
-<img align="center">![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png)</img>
+![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png#center)
 
 ## Tabla de Contenido
 1. [General Info](#general-info)
