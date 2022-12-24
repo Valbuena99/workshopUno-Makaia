@@ -19,7 +19,7 @@ _Realizar una aplicación de calificación interactiva cumpliendo los requerimie
 * Maquetación HTML.  
 * Diseño CSS. 
 
-_Preview_
+_Preview_  
 ![Preview Project](https://i.ibb.co/KxJtDgb/Workshop1-Makaia.gif)
 
 ## Tecnologías Utilizadas 🛠️
