@@ -18,7 +18,7 @@ _Realizar una aplicación de calificación interactiva cumpliendo los requerimie
 · Almacenamiento en LocalStorage.  
 · Maquetación HTML.  
 · Diseño CSS.  
-
+![Preview Project](https://i.ibb.co/KxJtDgb/Workshop1-Makaia.gif)
 
 ## Comenzando 🚀
 
