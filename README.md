@@ -1,4 +1,4 @@
-![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png)
+<center> ![App de Votos](https://i.ibb.co/10fwXB0/Workshop1.png) </center>
 
 ## Tabla de Contenido
 1. [General Info](#general-info)
@@ -18,7 +18,7 @@ _Realizar una aplicación de calificación interactiva cumpliendo los requerimie
 · Almacenamiento en LocalStorage.  
 · Maquetación HTML.  
 · Diseño CSS.  
-![Preview Project](https://i.ibb.co/KxJtDgb/Workshop1-Makaia.gif)
+<center> ![Preview Project](https://i.ibb.co/KxJtDgb/Workshop1-Makaia.gif) </center>
 
 ## Comenzando 🚀
 
